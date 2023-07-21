@@ -23,16 +23,12 @@ In recent times, the legal landscape has witnessed an unsettling rise in false t
 ## Installation of Libraries
 Please enter the following commands to download the required libraries
 ```
-  1. opencv
-    >> pip install opencv-python
-  2. face_recognition
-    >> pip install face_recognition
-  3. mysql.connector
+  1. mysql.connector
     >> pip install mysql-connector-python
-  4. flask
+  2. flask
     >> pip install flask
-  5. numpy
-    >> pip install numpy
+  3. numpy
+    >> pip install nltk
   
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
