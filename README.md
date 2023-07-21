@@ -16,6 +16,13 @@ In recent times, the legal landscape has witnessed an unsettling rise in false t
 ## Solution Architecture
 <img src=https://github.com/hackrx40/PS10-LegalX/assets/138132906/9316315f-2574-4b6b-9e85-136a68606d21>
 
+## Installation of Requirements
+1. Python 3.9
+   * Install Python from this [Link](https://www.python.org/downloads/release/python-396/)
+2. MySQL
+   * Download Windows (x86, 32-bit), MSI Installer from [here](https://downloads.mysql.com/archives/installer/)
+   * Then Run the above installed Installer and then please make note of the password.
+   
 ## Installation of Libraries
 Please enter the following commands to download the required libraries
 ```
