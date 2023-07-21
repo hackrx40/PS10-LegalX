@@ -29,6 +29,10 @@ def home():
 def input_page():
     return render_template('input.html')
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
 @app.route('/uploadfiles', methods=['POST'])
 def uploadfiles():
     casetype = request.form['caseType']
