@@ -54,6 +54,10 @@ Please enter the following commands to download the required libraries
     >> pip install nltk
   4. python-docx
     >> pip install python-docx
+  5. PyMuPDF
+    >> pip install PyMuPDF
+  6. pillow
+    >> pip install pillow
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
 
