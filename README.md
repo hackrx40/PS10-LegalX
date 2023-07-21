@@ -32,3 +32,11 @@ Please enter the following commands to download the required libraries
   
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
+
+## MySQL Configuration
+Run the following commands in the MySQL Command Line Client
+```
+  mysql> create database legalx;
+  mysql> use legalx;
+  mysql> create table casetable(casetype varchar(50),keyword varchar(255));
+```
