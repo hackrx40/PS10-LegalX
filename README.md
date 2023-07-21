@@ -1,15 +1,16 @@
-# PS10-LegalX
-## Fraud & Legal - Third Party Legal Claims
+# PS10-LegalX : Fraud & Legal - Third Party Legal Claims
 
 ## About
 In recent times, the legal landscape has witnessed an unsettling rise in false third-party legal claims, which poses a significant challenge to the justice system and adversely impacts individuals, businesses, and society at large. The insurance company have to make sure that all the policies being true. Creating the final draft is time consuming task as the format is almost similar for all the cases and there are many conditions in which the final verdict is same. Our aim is to develop a solution to prepare the draft so that the insurance company could easily check the draft and verify whether the claim is valid or not. We are using Machine Learning and NLP models to automatically generate case drafts.
 
 ## Team Members
+```
 1. Mohd. Altaf Khan           VIT Chennai
 2. Kesav Santhosh             VIT Chennai
 3. Harshenee CB               VIT Chennai
 4. A Venkata Vignesh Reddy    VIT Chennai
 5. M Rokithkumar              VIT Chennai
+```
 
 ## Features
 * OCR to Convert Scanned Images of Reports and Documents into Text Format
@@ -51,7 +52,6 @@ Please enter the following commands to download the required libraries
     >> pip install flask
   3. numpy
     >> pip install nltk
-  
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
 
