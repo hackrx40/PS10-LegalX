@@ -52,6 +52,8 @@ Please enter the following commands to download the required libraries
     >> pip install flask
   3. numpy
     >> pip install nltk
+  4. python-docx
+    >> pip install python-docx
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
 
