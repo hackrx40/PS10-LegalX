@@ -16,6 +16,16 @@ In recent times, the legal landscape has witnessed an unsettling rise in false t
 ## Solution Architecture
 <img src=https://github.com/hackrx40/PS10-LegalX/assets/138132906/9316315f-2574-4b6b-9e85-136a68606d21>
 
+## Supported Platforms
+* Windows
+* Linux
+* macOS
+
+## Requirements
+* Compiler (Recommended: Visual Studio Code)
+* MySQL Community Server 8.0.24
+* Python 3.9
+  
 ## Installation of Requirements
 1. Python 3.9
    * Install Python from this [Link](https://www.python.org/downloads/release/python-396/)
