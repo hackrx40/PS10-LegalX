@@ -95,3 +95,8 @@ Run the following commands in the MySQL Command Line Client
 ```
 6. Use CTRL + Click the http://127.0.0.1:5000 this will open a brower or manually enter URL- http://127.0.0.1:5000/ in any of your browsers.
 7. There you go, You have the Cover page of the LegalX Web Application in Front of you.
+
+
+## GUI
+![Home](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cf4ba8a8-2d9b-428f-89f4-fa75b1a03c97)
+
