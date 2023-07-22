@@ -98,13 +98,13 @@ Run the following commands in the MySQL Command Line Client
 
 
 ## GUI
-INDEX
+### INDEX
 ![Index](https://github.com/hackrx40/PS10-LegalX/assets/75007002/de5395fe-86c2-47ea-8747-4ab7f7ae245f)
-INPUT
+### INPUT
 ![Input](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cf4ba8a8-2d9b-428f-89f4-fa75b1a03c97)
-UPLOAD
+### UPLOAD
 ![Upload](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cfc68977-8a74-4aa1-8d29-7f531ff7b36e)
-ABOUT
+### ABOUT
 ![About](https://github.com/hackrx40/PS10-LegalX/assets/75007002/5e68066e-8fda-43aa-b92b-f5c9a0c64336)
 
 
