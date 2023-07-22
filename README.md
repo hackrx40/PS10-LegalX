@@ -99,9 +99,11 @@ Run the following commands in the MySQL Command Line Client
 
 ## GUI
 INDEX
-![WhatsApp Image 2023-07-22 at 09 19 18](https://github.com/hackrx40/PS10-LegalX/assets/75007002/de5395fe-86c2-47ea-8747-4ab7f7ae245f)
+![Index](https://github.com/hackrx40/PS10-LegalX/assets/75007002/de5395fe-86c2-47ea-8747-4ab7f7ae245f)
 INPUT
-![Home](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cf4ba8a8-2d9b-428f-89f4-fa75b1a03c97)
+![Input](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cf4ba8a8-2d9b-428f-89f4-fa75b1a03c97)
+UPLOAD
+![Upload](https://github.com/hackrx40/PS10-LegalX/assets/75007002/cfc68977-8a74-4aa1-8d29-7f531ff7b36e)
 
 
 
