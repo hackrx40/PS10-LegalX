@@ -58,6 +58,8 @@ Please enter the following commands to download the required libraries
     >> pip install PyMuPDF
   6. pillow
     >> pip install pillow
+  7. reportLab
+    >>pip install reportLab
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
 
