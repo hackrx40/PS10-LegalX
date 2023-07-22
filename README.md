@@ -60,6 +60,11 @@ Please enter the following commands to download the required libraries
     >> pip install pillow
   7. reportLab
     >>pip install reportLab
+  8. pytesseract
+    >>pip install pytesseract
+    If any error persists then [(https://github.com/UB-Mannheim/tesseract/wiki)](https://github.com/UB-Mannheim/tesseract/wiki) use this       link and download pytesseract and then copy pytesseract.exe path link from your folder to use pyteserract
+  9. openai
+    >>pip install openai
 ```
 If any libraries in the App.py is not pre-installed please use "pip install XXXX" here XXXX be the library name in cmd.
 
